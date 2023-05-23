@@ -35,7 +35,6 @@ img {
   width: 528px;
 }
 .hero-two-img {
-  position: absolute;
   top: 0;
   left: 14px;
   border: 26px solid #ffe550;
@@ -43,7 +42,6 @@ img {
   width: 528px;
 }
 .hero-three-img {
-  position: absolute;
   top: 0;
   left: 14px;
   border: 26px solid #ffe550;
